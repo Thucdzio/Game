@@ -1,4 +1,4 @@
-# Game (Plane_Invader)*
+# Game : Plane_Invader
 * Họ và tên: Lê Tiến Thực
 * MSSV: 22021197
 * Trường Đại Học Công Nghệ - ĐHQG Hà Nội
