@@ -1,0 +1,48 @@
+﻿  Amo.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+  BASE_FUNCITION.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+  Boss.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+  Explosion.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+D:\sdl\idolthucorz\idolthucorz\Explosion.cpp(18,101): warning C4305: 'argument': truncation from 'const int' to 'Uint8'
+D:\sdl\idolthucorz\idolthucorz\Explosion.cpp(18,76): warning C4309: 'argument': truncation of constant value
+  Game.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+D:\sdl\idolthucorz\idolthucorz\Game.cpp(20,101): warning C4305: 'argument': truncation from 'const int' to 'Uint8'
+D:\sdl\idolthucorz\idolthucorz\Game.cpp(20,76): warning C4309: 'argument': truncation of constant value
+  Menu.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+  PLAYER_PW.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+  Plane.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.H(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+D:\sdl\idolthucorz\idolthucorz\Plane.cpp(91,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\sdl\idolthucorz\idolthucorz\Plane.cpp(95,60): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\sdl\idolthucorz\idolthucorz\Plane.cpp(110,43): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\sdl\idolthucorz\idolthucorz\Plane.cpp(114,62): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  TextOB.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+  Threat.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+D:\sdl\idolthucorz\idolthucorz\Threat.cpp(9,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\sdl\idolthucorz\idolthucorz\Threat.cpp(39,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\sdl\idolthucorz\idolthucorz\Threat.cpp(62,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Time.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+  main.cpp
+D:\sdl\idolthucorz\idolthucorz\BASE_FUNCITION.h(54,2): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+D:\sdl\idolthucorz\idolthucorz\main.cpp(62,78): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+D:\sdl\idolthucorz\idolthucorz\main.cpp(62,75): warning C4309: 'argument': truncation of constant value
+D:\sdl\idolthucorz\idolthucorz\main.cpp(62,78): warning C4305: 'argument': truncation from 'const int' to 'Uint8'
+D:\sdl\idolthucorz\idolthucorz\main.cpp(62,48): warning C4309: 'argument': truncation of constant value
+D:\sdl\idolthucorz\idolthucorz\main.cpp(231,70): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+D:\sdl\idolthucorz\idolthucorz\main.cpp(231,67): warning C4309: 'argument': truncation of constant value
+D:\sdl\idolthucorz\idolthucorz\main.cpp(231,70): warning C4305: 'argument': truncation from 'const int' to 'Uint8'
+D:\sdl\idolthucorz\idolthucorz\main.cpp(231,40): warning C4309: 'argument': truncation of constant value
+D:\sdl\idolthucorz\idolthucorz\main.cpp(319,33): warning C4551: function call missing argument list
+D:\sdl\idolthucorz\idolthucorz\main.cpp(363,29): warning C4551: function call missing argument list
+D:\sdl\idolthucorz\idolthucorz\main.cpp(426,21): warning C4551: function call missing argument list
+  Generating Code...
+  idolthucorz.vcxproj -> D:\sdl\idolthucorz\x64\Debug\idolthucorz.exe
